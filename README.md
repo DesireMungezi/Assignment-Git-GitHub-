@@ -8,7 +8,7 @@ An explanation of Git &amp; GitHub in my POV.
 _**What is a Respository?**_ for me i would say a respository is a piece memory or space used to store data( <sup>Project files</sup> ), a history of changes are documented and kept. 
 
 *Cloning*
-	-This is a duplication of a file with an intension of making it local, so that it can be used easily e.g in a code 
+	-This is a duplication of a file with an intension of making it local, so that it can be used easily e.g in a code. 
 editor like [Visual Studio Code](https://code.visualstudio.com/).
 
 ### Branches and forks
